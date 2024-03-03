@@ -1,8 +1,8 @@
 
 # Hi 👋 I am Andika Hari Wijaya! 
-I studied Software Engineering at Bani Saleh University, where I am currently in semester 6.
+I studied Informatics Enginering at Bani Saleh University, where I am currently in semester 6.
 
-- 🌐 Visit my [portfolio website] (Soon) for more information and to get in touch.
+- 🌐 Visit my [Portfolio Website](https://nicetryandika.github.io/) for more information and to get in touch.
 - ✍️ Follow me on [Medium] (Soon)for more written content.
 
 ---
